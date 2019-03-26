@@ -1,20 +1,4 @@
-# 3ds-Nintendogs-cats-Save-Editor
+# 3ds-Nintendogs-cats-Save-Editor-modified
 
-![Main windows](https://i11.servimg.com/u/f11/19/11/94/79/ncse10.png)
-
-# How to use : 
-- Extract your save with a homebrew (JK's Save Manager or other)
-- Open sysdata.dat, edit
-- Re-import your save with a homebrew (JK's Save Manager or other)
-
-# Features :
-- Edit Money
-- Unlock all items by numbers
-- Edit interiors designs
-- Edit animals names
-
-# Releases :
-https://github.com/Brionjv/3ds-Nintendogs-cats-Save-Editor/releases
-
-# Page :
-https://gbatemp.net/threads/release-3ds-nintendogs-cats-save-editor.473694/
+This is an edited version of 3ds-Nintendogs-cats-Save-Editor, you can now edit the 6 animals names (3 previously).
+Editing the 6 animals makes game on Citra emulator possible (bypassing the missing microphone, when you adopt a new animal)
